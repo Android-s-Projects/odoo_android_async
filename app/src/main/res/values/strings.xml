@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">odoo_android_async</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="your_timetalbe">Tu horario de hoy es</string>
+    <string name="begin">Hora de entrada</string>
+    <string name="finish">Hora de salida</string>
+    <string name="validate">Validar Marcajes</string>
+</resources>
